@@ -356,4 +356,4 @@ async def setlevel(ctx, user: discord.Member, level: int):
 
 
 
-client.run("MTA4NDE2ODA5NzM4NjIyMTYwOA.G6Nk27.sY83mZLisT4_d4Zwnca8zFXGjYqlCu9AwEtMZo")
+client.run("YOUR BOT TOKEN")
